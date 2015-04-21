@@ -1,5 +1,10 @@
 package com.bubuwork.yahoo.currency;
 
+/**
+ * 
+ * @author ibukki
+ *
+ */
 public class CurrencyConstant {
   
   public static final String FIELD_NAME_NAME = "name";
